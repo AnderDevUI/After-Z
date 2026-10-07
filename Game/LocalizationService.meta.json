@@ -1,0 +1,8 @@
+{
+  "name": "LocalizationService",
+  "className": "LocalizationService",
+  "properties": {
+    "SystemLocaleId": "es-ES",
+    "RobloxLocaleId": "es-ES"
+  }
+}

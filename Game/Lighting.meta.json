@@ -1,0 +1,8 @@
+{
+  "name": "Lighting",
+  "className": "Lighting",
+  "properties": {
+    "Brightness": 2,
+    "TimeOfDay": "14:00:00"
+  }
+}

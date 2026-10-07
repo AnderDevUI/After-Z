@@ -1,0 +1,9 @@
+{
+  "name": "SpawnLocation",
+  "className": "SpawnLocation",
+  "properties": {
+    "Anchored": true,
+    "TeamColor": "Bright blue",
+    "AllowTeamChangeOnTouch": false
+  }
+}
